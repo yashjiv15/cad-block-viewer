@@ -60,7 +60,8 @@ A full-stack web app to upload DXF CAD files, extract block data (name, type, co
 - Node.js
     
 - PostgreSQL (v13+)
-    
+
+- .env contains database connection
 
  Backend
 
